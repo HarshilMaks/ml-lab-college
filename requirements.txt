@@ -1,0 +1,6 @@
+# Requirements for exp4_find_s_algorithm.ipynb
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
